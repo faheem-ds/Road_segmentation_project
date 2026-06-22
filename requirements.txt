@@ -1,0 +1,14 @@
+torch
+torchvision
+numpy
+Pillow
+tqdm
+matplotlib
+segmentation-models-pytorch
+transformers
+accelerate
+timm
+albumentations
+opencv-python
+scikit-image
+pandas
