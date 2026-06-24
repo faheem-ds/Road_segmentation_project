@@ -3,3 +3,5 @@ dataset_prepared/
 
 __pycache__/
 *.py[cod]
+config.bat
+node_modules
